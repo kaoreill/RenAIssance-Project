@@ -1,2 +1,2 @@
 # RenAIssance-Project
-Tests for the RenAIssance Project for Google's Summer of Code
+Task 2 for the RenAIssance Project for Google's Summer of Code
